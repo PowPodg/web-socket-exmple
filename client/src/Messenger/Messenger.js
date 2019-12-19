@@ -17,7 +17,7 @@ class Messenger extends Component {
     },
     {
       id: '1',
-      message: () => this.props.connected ? this.props.dataFromServ : 'no message',
+      message: () => this.props.connected ? this.props.dataFromServ : constants.NO_MESSAGE,
       trigger: '2',
     },
     {
