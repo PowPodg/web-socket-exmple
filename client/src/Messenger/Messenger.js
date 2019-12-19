@@ -12,7 +12,7 @@ class Messenger extends Component {
   steps = [
     {
       id: '0',
-      message: 'Request to the server',
+      message: constants.MESSAGE_REQ,
       trigger: '1',
     },
     {

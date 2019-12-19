@@ -4,5 +4,6 @@ module.exports = {
     CONNECTED: 'connected',
 
     NO_MESSAGE: 'no message',
+    MESSAGE_REQ: 'Request to the server',
     ICON_IMAGE: 'img/m.jpg'
 };
