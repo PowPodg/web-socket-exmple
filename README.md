@@ -5,5 +5,5 @@ Example exchange test messages according to the protocol WebSocket between the c
 
 
 <p align="center">
-  <img src="img/pict.png" width="100">
+  <img src="img/pict.png" width="400">
 </p>
